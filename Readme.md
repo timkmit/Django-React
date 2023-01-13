@@ -1,4 +1,4 @@
-fullstack_django\fullstack_django> pip install requirements.txt
+fullstack_django\fullstack_django> pip install requirements.txt<br>
 fullstack_django\frontend> npm install axios
 
 For Terminal#1 (React.js):
